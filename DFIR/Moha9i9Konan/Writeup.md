@@ -11,7 +11,6 @@
 During the analysis of InfraBroken.ad1, we identified a PowerShell script named Fra9syam.ps1:
 
 
-     During the analysis of the email, we identified the user who sent the email and the link to the document.
     1- user : aymanetogoo@gmail.com
     2- document : Product_details.docm
 
