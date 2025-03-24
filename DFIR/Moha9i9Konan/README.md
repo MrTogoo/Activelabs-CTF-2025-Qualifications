@@ -58,3 +58,6 @@ And here, we obtained the first part of the flag.
 
 FLAG : 
 >CSP{DN5_G00D_T0_3XF1L7R3_V1A_53CUR3_CH4NN3L5_4ND_L4H_YT9ABL_SY4MNA}
+
+
+**Note**:These pieces of information were not found because I removed my comment in VirusTotal and the user on GitHub.
